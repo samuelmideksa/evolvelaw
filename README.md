@@ -1,2 +1,2 @@
 # evolvelaw
-Clone of a website (https://evolvelaw.ca/) using bootstrap.
+Clone of the website (https://evolvelaw.ca/) using bootstrap.
